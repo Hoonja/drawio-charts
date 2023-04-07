@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-05T13:19:31.056Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Jm8BjM3bmjljj02sq315" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-07T09:53:23.775Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="r7LZ9JUVY51rFR4Q0_r4" version="21.1.1" type="github">
   <diagram name="페이지-1" id="gmwb6MmC6AVxu4Al9r3q">
-    <mxGraphModel dx="1520" dy="1326" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1018" dy="1383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,6 +9,9 @@
         </mxCell>
         <mxCell id="AmIzQvQsa5jR5vgkLnfc-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="720" width="680" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AmIzQvQsa5jR5vgkLnfc-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
